@@ -1,7 +1,7 @@
 # NLP-Projects
 
 ## Project - 1
-hidden_representation_BERT.ipynb - In this notebook, I have implemented a probing classifier for POS tagging NLP task by measuring how many parameters from the input representations are
+**hidden_representation_BERT.ipynb** - In this notebook, I have implemented a probing classifier for POS tagging NLP task by measuring how many parameters from the input representations are
 necessary to learn the task to certain degrees by dropping out some systematically.
 **Keywords - PyTorch, Fine tuning BERT, Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), POS Tagging**
 
